@@ -6,6 +6,13 @@ public class Cat {
 		
 		System.out.println("阿法");
 		
+		
+		
+		
+	int a;	
+		
+		
 	}
 
 }
+
