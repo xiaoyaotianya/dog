@@ -10,7 +10,15 @@ public class Cat {
 		int a ;
 		int b ;
 		
+
 		System.out.println("nana");
+
+		
+		
+		
+	int c;
+		
+
 		
 	}
 
