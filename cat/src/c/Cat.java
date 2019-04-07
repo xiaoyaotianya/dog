@@ -4,16 +4,14 @@ public class Cat {
 	
 	public static void main(String[] args) {
 		
-		System.out.println("阿法");
+		System.out.println("");
 		
 		
+		int a ;
+		int b ;
 		
-		
-		
-	int a;	
-		
+		System.out.println("nana");
 		
 	}
 
 }
-
