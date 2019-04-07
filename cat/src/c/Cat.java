@@ -11,6 +11,7 @@ public class Cat {
 		
 		
 	int a;	
+	int c;
 		
 		
 	}
